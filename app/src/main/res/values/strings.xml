@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Alhóndiga La Unión</string>
+    <string name="home">Inicio</string>
+    <string name="product">Productos</string>
+    <string name="news">Noticias</string>
+
+</resources>

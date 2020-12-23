@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="@color/union_yellow" android:state_pressed="true"/>
+    <item android:color="@color/union_yellow" android:state_checked="true"/>
+    <item android:color="@color/union_black" />
+    <item android:actionMenuTextColor="@color/union_black" android:state_pressed="true"/>
+    <item android:actionMenuTextColor="@color/union_black" android:state_checked="true"/>
+</selector>
